@@ -1,0 +1,17 @@
+# Build Maven
+target/
+build/
+*.class
+*.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
