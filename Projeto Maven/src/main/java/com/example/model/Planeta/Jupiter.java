@@ -18,12 +18,12 @@ public class Jupiter extends Planeta implements Rotacao, Translacao, SuperficeGa
 
     @Override
     public void MovimentoRotacao(){
-     System.out.println("Marte realiza rotação em torno de seu próprio eixo em 9 horas e 56 minutos");
+     System.out.println("Júpiter realiza rotação em torno de seu próprio eixo em 9 horas e 56 minutos");
     };
 
     @Override
     public void MovimentoTranslacao(){
-        System.out.println("Marte realiza translação em torno do Sol, demorando 4.333 dias terrestres");
+        System.out.println("Júpiter realiza translação em torno do Sol, demorando 4.333 dias terrestres");
     };
     
     @Override
